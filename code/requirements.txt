@@ -1,0 +1,9 @@
+pandas
+anthropic
+langchain
+langchain-anthropic
+langchain-community
+langchain-chroma
+sentence-transformers
+python-dotenv
+tqdm
